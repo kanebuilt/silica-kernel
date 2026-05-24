@@ -1,6 +1,6 @@
 <h1>
   <img src="./assets/icon.svg" alt="Silica project icon" width="30" style="vertical-align: middle;">
-  The Silica microkernel
+  The Silica kernel
 </h1>
 
 > A stable, IPC-based kernel developed completely in PenguinMod, with a suite of custom extensions developed by KaneBuilt and a dead-simple coding workflow.
